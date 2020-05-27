@@ -1,0 +1,8 @@
+[url]
+url_weibohot = https://s.weibo.com/top/summary?cate=realtimehot
+header_domain = {'content-type':'text/html; charset=UTF-8', 'User-Agent': 'Safari/537.36'}
+
+[db]
+dbtype = sqlite
+dbname = weibohot.db
+
